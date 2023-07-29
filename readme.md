@@ -1,4 +1,4 @@
-![cover](assets/cover.png)
+![Cover Photo](https://github.com/ajayp1717/StockGaze/blob/master/assets/cover.png)
 
 <div align="center">
 	<h2>StockGaze</h2>
