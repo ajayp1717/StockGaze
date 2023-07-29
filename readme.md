@@ -13,8 +13,7 @@
 
 ### 🛠️ Installation Steps
 
-1.Open the root directory
-
+1. cd to root directory
 2. Install dependencies
 
 ```bash
